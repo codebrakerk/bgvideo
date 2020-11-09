@@ -215,7 +215,8 @@ header {
   z-index: -2;
 }
 h1 {
-  color: var(--clr-white);
+  color:purple;
+  margin-bottom:30px;
 }
 /* switch button */
 
@@ -265,3 +266,14 @@ h1 {
   background: rgba(0, 0, 0, 0.7);
   z-index: -1;
 } 
+.profile_container{
+background:transparent;
+padding:100px;
+}
+.profiles{
+padding:20px;
+
+}
+a{
+  color: white;
+}
